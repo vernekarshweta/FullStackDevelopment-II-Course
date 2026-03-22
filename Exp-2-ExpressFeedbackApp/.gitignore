@@ -1,0 +1,42 @@
+# node modules
+node_modules/
+
+# logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# environment variables
+.env
+
+# mac files
+.DS_Store
+
+# windows files
+Thumbs.db
+
+# coverage
+coverage/
+
+# build folders
+dist/
+build/
+
+# vscode
+.vscode/
+
+# idea
+.idea/
+
+# temp files
+tmp/
+temp/
+
